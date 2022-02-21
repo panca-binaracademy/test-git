@@ -1,3 +1,4 @@
 initial project
 adding feature 1
 fixing bug 1
+fixing bug 2
